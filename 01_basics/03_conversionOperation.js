@@ -18,10 +18,36 @@
 // "" => false
 // "hitesh" => true
 
-let SomeNumber = 33
-let stringNumber = String(SomeNumber)
-console.log(stringNumber); //33
-console.log(typeof stringNumber); //33
+// let SomeNumber = 33
+// let stringNumber = String(SomeNumber)
+// console.log(stringNumber); //33
+// console.log(typeof stringNumber); //33
+
+
+
+
+// *********************Operations*****************
+
+//  console.log(2*2);
+//  let value = 2
+//  let negVal = -value
+//  console.log(negVal);
+
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+
+console.log(true); 
+
+
+
+
+
+ 
+ 
+
+ 
 
 
 
